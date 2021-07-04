@@ -1,0 +1,1027 @@
+{
+  "guestIdentity": {},
+  "calculate": {},
+  "custom_cart_info": {
+    "recordSetTotal": "5",
+    "storeUniqueID": "20027",
+    "x_isPersonalAddressesAllowedForShipping": "true",
+    "recordSetCount": "5",
+    "totalSalesTaxCurrency": "GBP",
+    "recordSetComplete": "true",
+    "promotionCode": [
+      {
+        "associatedPromotion": [
+          {
+            "promotionId": "725891893",
+            "description": "10 Percent Off"
+          }
+        ],
+        "code": "TH08310"
+      }
+    ],
+    "adjustment": [
+      {
+        "amount": "-12.50000",
+        "xadju_calUsageId": "-1",
+        "displayLevel": "OrderItem",
+        "description": "10 Percent Off",
+        "usage": "Discount",
+        "language": "44",
+        "code": "TH EU 10 Percent Off-725891893",
+        "descriptionLanguage": "44",
+        "currency": "GBP"
+      },
+      {
+        "amount": "-20.50000",
+        "xadju_calUsageId": "-1",
+        "displayLevel": "OrderItem",
+        "description": "10 Percent Off",
+        "usage": "Discount",
+        "language": "44",
+        "code": "TH EU 10 Percent Off-725891900",
+        "descriptionLanguage": "44",
+        "currency": "GBP"
+      },
+      {
+        "amount": "-40.50000",
+        "xadju_calUsageId": "-1",
+        "displayLevel": "Order",
+        "description": "Employee Discount",
+        "usage": "Discount",
+        "language": "44",
+        "code": "40 Percent Off",
+        "descriptionLanguage": "44",
+        "currency": "GBP"
+      },
+      {
+        "amount": "-3.90000",
+        "xadju_calUsageId": "-7",
+        "displayLevel": "Order",
+        "description": "Free Shipping ",
+        "usage": "Shipping Adjustment",
+        "language": "44",
+        "code": "Free Shipping Threshold GLS-725842432",
+        "descriptionLanguage": "44",
+        "currency": "GBP"
+      }
+    ],
+    "orderItem": [
+      {
+        "orderItemId": "1645024",
+        "unitQuantity": "1.0",
+        "totalAdjustment": {
+          "value": "0.00000",
+          "currency": "GBP"
+        },
+        "unitPrice": "35.00000",
+        "usableShippingChargePolicy": [
+          {
+            "name": "StandardShippingChargeBySeller",
+            "uniqueID": "-7001",
+            "type": "ShippingCharge"
+          }
+        ],
+        "currency": "GBP",
+        "fulfillmentCenterName": "CalvinKlein",
+        "orderItemInventoryStatus": "Available",
+        "shippingTax": "0.00000",
+        "description": "Parcel Force",
+        "orderItemStatus": "P",
+        "shippingChargeCurrency": "GBP",
+        "orderItemPrice": "105.00000",
+        "carrier": "40037",
+        "quantity": "3.0",
+        "contractId": "4000000000000000561",
+        "fulfillmentCenterId": "715838485",
+        "createDate": "2020-02-03T17:37:24.360Z",
+        "correlationGroup": "1645024",
+        "salesTaxCurrency": "GBP",
+        "unitUom": "C62",
+        "partNumber": "8719851495348",
+        "salesTax": "0.00000",
+        "isExpedited": "false",
+        "freeGift": "false",
+        "xitem_isPersonalAddressesAllowedForShipping": "true",
+        "shipModeCode": "Parcel Force",
+        "orderItemFulfillmentStatus": "Unreleased",
+        "shipModeDescription": "Parcel Force",
+        "shippingCharge": "0.00000",
+        "shipModeLanguage": "44",
+        "lastUpdateDate": "2020-02-03T17:37:24.424Z",
+        "productId": "526179",
+        "shippingTaxCurrency": "GBP",
+        "offerID": "4000000000091689147",
+        "UOM": "C62",
+        "expectedShipDate": "2020-02-06T12:11:42.190Z",
+        "shipModeId": "715838998",
+        "language": "44"
+      },
+      {
+        "orderItemId": "1645026",
+        "unitQuantity": "1.0",
+        "totalAdjustment": {
+          "value": "0.00000",
+          "currency": "GBP"
+        },
+        "unitPrice": "35.00000",
+        "usableShippingChargePolicy": [
+          {
+            "name": "StandardShippingChargeBySeller",
+            "uniqueID": "-7001",
+            "type": "ShippingCharge"
+          }
+        ],
+        "currency": "GBP",
+        "fulfillmentCenterName": "CalvinKlein",
+        "orderItemInventoryStatus": "Available",
+        "shippingTax": "0.00000",
+        "description": "Parcel Force",
+        "orderItemStatus": "P",
+        "shippingChargeCurrency": "GBP",
+        "orderItemPrice": "70.00000",
+        "carrier": "40037",
+        "quantity": "2.0",
+        "contractId": "4000000000000000561",
+        "fulfillmentCenterId": "715838485",
+        "createDate": "2020-02-04T13:57:52.282Z",
+        "correlationGroup": "1645026",
+        "salesTaxCurrency": "GBP",
+        "unitUom": "C62",
+        "partNumber": "8719851479843",
+        "salesTax": "0.00000",
+        "isExpedited": "false",
+        "freeGift": "false",
+        "xitem_isPersonalAddressesAllowedForShipping": "true",
+        "shipModeCode": "Parcel Force",
+        "orderItemFulfillmentStatus": "Unreleased",
+        "shipModeDescription": "Parcel Force",
+        "shippingCharge": "0.00000",
+        "shipModeLanguage": "44",
+        "lastUpdateDate": "2020-02-05T14:52:20.279Z",
+        "productId": "525739",
+        "shippingTaxCurrency": "GBP",
+        "offerID": "4000000000091662707",
+        "UOM": "C62",
+        "expectedShipDate": "2020-02-06T12:11:42.216Z",
+        "shipModeId": "715838998",
+        "language": "44"
+      },
+      {
+        "orderItemId": "1645027",
+        "unitQuantity": "1.0",
+        "totalAdjustment": {
+          "value": "0.00000",
+          "currency": "GBP"
+        },
+        "unitPrice": "55.00000",
+        "usableShippingChargePolicy": [
+          {
+            "name": "StandardShippingChargeBySeller",
+            "uniqueID": "-7001",
+            "type": "ShippingCharge"
+          }
+        ],
+        "currency": "GBP",
+        "fulfillmentCenterName": "CalvinKlein",
+        "orderItemInventoryStatus": "Available",
+        "shippingTax": "0.00000",
+        "description": "Parcel Force",
+        "orderItemStatus": "P",
+        "shippingChargeCurrency": "GBP",
+        "orderItemPrice": "55.00000",
+        "carrier": "40037",
+        "quantity": "1.0",
+        "contractId": "4000000000000000561",
+        "fulfillmentCenterId": "715838485",
+        "createDate": "2020-02-04T14:25:46.888Z",
+        "correlationGroup": "1645027",
+        "salesTaxCurrency": "GBP",
+        "unitUom": "C62",
+        "partNumber": "8719851511253",
+        "salesTax": "0.00000",
+        "isExpedited": "false",
+        "freeGift": "false",
+        "xitem_isPersonalAddressesAllowedForShipping": "true",
+        "shipModeCode": "Parcel Force",
+        "orderItemFulfillmentStatus": "Unreleased",
+        "shipModeDescription": "Parcel Force",
+        "shippingCharge": "0.00000",
+        "shipModeLanguage": "44",
+        "lastUpdateDate": "2020-02-04T14:25:46.973Z",
+        "productId": "527650",
+        "shippingTaxCurrency": "GBP",
+        "offerID": "4000000000091258091",
+        "UOM": "C62",
+        "expectedShipDate": "2020-02-06T12:11:42.225Z",
+        "shipModeId": "715838998",
+        "language": "44"
+      },
+      {
+        "orderItemId": "1655003",
+        "unitQuantity": "1.0",
+        "totalAdjustment": {
+          "value": "0.00000",
+          "currency": "GBP"
+        },
+        "unitPrice": "90.00000",
+        "usableShippingChargePolicy": [
+          {
+            "name": "StandardShippingChargeBySeller",
+            "uniqueID": "-7001",
+            "type": "ShippingCharge"
+          }
+        ],
+        "currency": "GBP",
+        "fulfillmentCenterName": "CalvinKlein",
+        "orderItemInventoryStatus": "Available",
+        "shippingTax": "0.00000",
+        "description": "Parcel Force",
+        "orderItemStatus": "P",
+        "shippingChargeCurrency": "GBP",
+        "orderItemPrice": "180.00000",
+        "carrier": "40037",
+        "quantity": "2.0",
+        "contractId": "4000000000000000561",
+        "fulfillmentCenterId": "715838485",
+        "createDate": "2020-02-06T10:04:12.416Z",
+        "correlationGroup": "1655003",
+        "salesTaxCurrency": "GBP",
+        "unitUom": "C62",
+        "partNumber": "8719113729716",
+        "salesTax": "0.00000",
+        "isExpedited": "false",
+        "freeGift": "false",
+        "xitem_isPersonalAddressesAllowedForShipping": "true",
+        "shipModeCode": "Parcel Force",
+        "orderItemFulfillmentStatus": "Unreleased",
+        "shipModeDescription": "Parcel Force",
+        "shippingCharge": "0.00000",
+        "shipModeLanguage": "44",
+        "lastUpdateDate": "2020-02-06T10:04:12.450Z",
+        "productId": "362439",
+        "shippingTaxCurrency": "GBP",
+        "offerID": "4000000000080114515",
+        "UOM": "C62",
+        "expectedShipDate": "2020-02-06T12:11:42.232Z",
+        "shipModeId": "715838998",
+        "language": "44"
+      },
+      {
+        "orderItemId": "1655004",
+        "unitQuantity": "1.0",
+        "totalAdjustment": {
+          "value": "0.00000",
+          "currency": "GBP"
+        },
+        "unitPrice": "25.00000",
+        "usableShippingChargePolicy": [
+          {
+            "name": "StandardShippingChargeBySeller",
+            "uniqueID": "-7001",
+            "type": "ShippingCharge"
+          }
+        ],
+        "currency": "GBP",
+        "fulfillmentCenterName": "CalvinKlein",
+        "orderItemInventoryStatus": "Available",
+        "shippingTax": "0.00000",
+        "description": "Parcel Force",
+        "orderItemStatus": "P",
+        "shippingChargeCurrency": "GBP",
+        "orderItemPrice": "150.00000",
+        "carrier": "40037",
+        "quantity": "6.0",
+        "contractId": "4000000000000000561",
+        "fulfillmentCenterId": "715838485",
+        "createDate": "2020-02-06T10:04:36.010Z",
+        "correlationGroup": "1655004",
+        "salesTaxCurrency": "GBP",
+        "unitUom": "C62",
+        "partNumber": "8719113820369",
+        "salesTax": "0.00000",
+        "isExpedited": "false",
+        "freeGift": "false",
+        "xitem_isPersonalAddressesAllowedForShipping": "true",
+        "shipModeCode": "Parcel Force",
+        "orderItemFulfillmentStatus": "Unreleased",
+        "shipModeDescription": "Parcel Force",
+        "shippingCharge": "0.00000",
+        "shipModeLanguage": "44",
+        "lastUpdateDate": "2020-02-06T10:04:36.044Z",
+        "productId": "387770",
+        "shippingTaxCurrency": "GBP",
+        "offerID": "4000000000091268717",
+        "UOM": "C62",
+        "expectedShipDate": "2020-02-06T12:11:42.236Z",
+        "shipModeId": "715838998",
+        "language": "44"
+      }
+    ],
+    "totalAdjustment": "0.00000",
+    "totalShippingTax": "0.00000",
+    "resourceId": "https://uk.dev.calvinklein.com:443/wcs/resources/store/20027/cart/@self/custom_cart_info?langId=44&catalogId=",
+    "totalProductPrice": "560.00000",
+    "grandTotalCurrency": "GBP",
+    "x_isPurchaseOrderNumberRequired": "false",
+    "storeNameIdentifier": "CalvinKleinUK",
+    "orderId": "248004",
+    "resourceName": "cart",
+    "shipAsComplete": "true",
+    "totalShippingTaxCurrency": "GBP",
+    "totalShippingCharge": "0.00000",
+    "recordSetStartNumber": "0",
+    "totalShippingChargeCurrency": "GBP",
+    "isPaypalExpressEnabled": true,
+    "grandTotal": "560.00000",
+    "x_field1": "44",
+    "orderStatus": "P",
+    "totalSalesTax": "0.00000",
+    "buyerId": "353505",
+    "lastUpdateDate": "2020-02-06T10:04:36.115Z",
+    "x_trackingIds": "",
+    "totalProductPriceCurrency": "GBP",
+    "prepareIndicator": "false",
+    "locked": "false",
+    "totalAdjustmentCurrency": "GBP",
+    "channel": {
+      "description": {
+        "value": "Used when operations performed from a desktop browser.",
+        "language": "44"
+      },
+      "userData": null,
+      "channelIdentifer": {
+        "channelName": "Web Channel",
+        "uniqueID": "-1"
+      }
+    }
+  },
+  "cart_item_details": {
+    "responseDataMap": {
+      "362439": {
+        "style_color_id": "362430",
+        "style_color_partnumber": "J30J307718_911",
+        "orderItemId": "1655003",
+        "seo_url": "/ckj-026-slim-jeans-j30j307718911",
+        "name": "ckj 026 slim jeans",
+        "label": "calvin klein jeans",
+        "attributes": {
+          "colour": "stay black",
+          "size": "2934"
+        }
+      },
+      "387770": {
+        "style_color_id": "387769",
+        "style_color_partnumber": "J30J307852_099",
+        "orderItemId": "1655004",
+        "seo_url": "/slim-organic-cotton-t-shirt-j30j307852099",
+        "name": "slim organic cotton t-shirt",
+        "label": "calvin klein jeans",
+        "attributes": {
+          "colour": "ck black",
+          "size": "XL"
+        }
+      },
+      "525739": {
+        "style_color_id": "525738",
+        "style_color_partnumber": "J30J312491_112",
+        "orderItemId": "1645026",
+        "seo_url": "/graphic-print-t-shirt-j30j312491112",
+        "name": "graphic print t-shirt",
+        "label": "calvin klein jeans",
+        "attributes": {
+          "colour": "bright white / mountains",
+          "size": "X/S"
+        }
+      },
+      "526179": {
+        "style_color_id": "526173",
+        "style_color_partnumber": "J30J312756_112",
+        "orderItemId": "1645024",
+        "seo_url": "/logo-pocket-t-shirt-j30j312756112",
+        "name": "logo pocket t-shirt",
+        "label": "calvin klein jeans",
+        "attributes": {
+          "colour": "bright white / black",
+          "size": "X/S"
+        }
+      },
+      "527650": {
+        "style_color_id": "527649",
+        "style_color_partnumber": "K50K504709_001",
+        "orderItemId": "1645027",
+        "seo_url": "/nylon-twill-bum-bag-k50k504709001",
+        "name": "nylon twill bum bag",
+        "label": "calvin klein",
+        "attributes": {
+          "colour": "black",
+          "size": "One Size"
+        }
+      }
+    }
+  },
+  "custom_usable_shipping_info": {
+    "resourceId": "http://uk.systestp.tommy.com:80/wcs/resources/store/30027/cart/@self/custom_usable_shipping_info",
+    "usableShippingAddress": [
+      {
+        "nickName": "SHIPBILL_405414_30027_44_2019-08-21-14.20.17.722",
+        "isPUPIntegratorAddress": false,
+        "addressId": "7000000177288008313"
+      },
+      {
+        "nickName": "SHIPBILL_405414_30027_44_2019-08-21-14.21.09.409",
+        "isPUPIntegratorAddress": false,
+        "addressId": "7000000177288827137"
+      }
+    ],
+    "shippingInfo": [
+      {
+        "deliveryMethodMessageKey": "CF_DM_PARCEL_FORCE",
+        "shipCharge": 0,
+        "description": "Parcel Force",
+        "shipModeCode": "Parcel Force",
+        "carrier": "40037",
+        "shipDeliveryTime": "within 2 - 3 working days",
+        "shipModeId": "715839545",
+        "language": "44",
+        "pupIntegrator": ""
+      },
+      {
+        "deliveryMethodMessageKey": "CF_DM_UPS_ACCESS_POINT",
+        "shipCharge": 0,
+        "description": "UPS Access Point",
+        "shipModeCode": "UPS Access Point",
+        "carrier": "77858",
+        "shipDeliveryTime": "within 2 - 3 working days",
+        "shipModeId": "715839409",
+        "codAvailableForShipMethod": "N",
+        "language": "44",
+        "pupIntegrator": "UPSAP"
+      },
+      {
+        "deliveryMethodMessageKey": "CF_DM_EXPRESS",
+        "shipCharge": 9.95,
+        "description": "UPS Express",
+        "shipModeCode": "UPS Express",
+        "carrier": "77858",
+        "shipDeliveryTime": "within 1 - 2 working days",
+        "shipModeId": "715839544",
+        "language": "44",
+        "pupIntegrator": ""
+      },
+      {
+        "deliveryMethodMessageKey": "CF_DM_CLICK_COLLECT",
+        "shipCharge": 0,
+        "description": "Click & Collect",
+        "shipModeCode": "CLICK_AND_COLLECT",
+        "carrier": "40037",
+        "shipDeliveryTime": "within 2 - 3 working days",
+        "shipModeId": "715839760",
+        "language": "44",
+        "pupIntegrator": ""
+      }
+    ],
+    "resourceName": "cart",
+    "orderId": "418010"
+  },
+  "inventoryavailabilityBase": {
+    "resourceId": "https://uk.dev.calvinklein.com:443/wcs/resources/store/20027/inventoryavailability/362439,387770,525739,526179,527650",
+    "InventoryAvailability": [
+      {
+        "inventoryStatus": "Available",
+        "onlineStoreName": "CalvinKleinUK",
+        "x_partnumber": "8719113729716",
+        "unitOfMeasure": "C62",
+        "onlineStoreId": "20027",
+        "availableQuantity": "4.0",
+        "productId": "362439",
+        "userDataField": [
+          {
+            "value": true,
+            "key": "lowstock"
+          }
+        ]
+      },
+      {
+        "inventoryStatus": "Available",
+        "onlineStoreName": "CalvinKleinUK",
+        "x_partnumber": "8719113820369",
+        "unitOfMeasure": "C62",
+        "onlineStoreId": "20027",
+        "availableQuantity": "6.0",
+        "productId": "387770"
+      },
+      {
+        "inventoryStatus": "Available",
+        "onlineStoreName": "CalvinKleinUK",
+        "x_partnumber": "8719851479843",
+        "unitOfMeasure": "C62",
+        "onlineStoreId": "20027",
+        "availableQuantity": "2.0",
+        "productId": "525739",
+        "userDataField": [
+          {
+            "value": true,
+            "key": "lowstock"
+          }
+        ]
+      },
+      {
+        "inventoryStatus": "Available",
+        "onlineStoreName": "CalvinKleinUK",
+        "x_partnumber": "8719851495348",
+        "unitOfMeasure": "C62",
+        "onlineStoreId": "20027",
+        "availableQuantity": "6.0",
+        "productId": "526179"
+      },
+      {
+        "inventoryStatus": "Available",
+        "onlineStoreName": "CalvinKleinUK",
+        "x_partnumber": "8719851511253",
+        "unitOfMeasure": "C62",
+        "onlineStoreId": "20027",
+        "availableQuantity": "101.0",
+        "productId": "527650"
+      }
+    ],
+    "resourceName": "inventoryavailability"
+  },
+  "get_parent_product": {
+    "resourceId": "https://uk.dev.calvinklein.com:443/wcs/resources/search/20027/product/44/10204/byProductId/387769",
+    "product": {
+      "asJson": "{\"sizeGuideGender\":\"gender_men\",\"soldout\":false,\"available\":false,\"details\":{\"attributes\":{\"PRODUCT_ATTR_PRODUCT_ATTR_COLOUR\":{\"values\":{\"PRODUCT_VAL_CK_BLACK\":{\"label\":\"CK BLACK\",\"sequence\":1,\"selectableSku\":true,\"selectableStock\":true},\"PRODUCT_VAL_BRIGHT_WHITE___SAFETY_YELLOW\":{\"label\":\"BRIGHT WHITE / SAFETY YELLOW\",\"sequence\":2,\"selectableSku\":true,\"selectableStock\":true},\"PRODUCT_VAL_NIGHT_SKY___ICELAND_POPPY\":{\"label\":\"NIGHT SKY / ICELAND POPPY\",\"sequence\":3,\"selectableSku\":true,\"selectableStock\":true}},\"name\":\"Colour\",\"sequence\":1},\"PRODUCT_ATTR_SIZE_UK\":{\"values\":{\"PRODUCT_VAL_XL\":{\"label\":\"XL\",\"sequence\":12,\"selectableSku\":true,\"selectableStock\":true},\"PRODUCT_VAL_XXL\":{\"label\":\"XXL\",\"sequence\":14,\"selectableSku\":true,\"selectableStock\":true},\"PRODUCT_VAL_XS\":{\"label\":\"XS\",\"sequence\":4,\"selectableSku\":true,\"selectableStock\":true},\"PRODUCT_VAL_S\":{\"label\":\"S\",\"sequence\":6,\"selectableSku\":true,\"selectableStock\":true},\"PRODUCT_VAL_M\":{\"label\":\"M\",\"sequence\":8,\"selectableSku\":true,\"selectableStock\":true},\"PRODUCT_VAL_L\":{\"label\":\"L\",\"sequence\":10,\"selectableSku\":true,\"selectableStock\":true}},\"name\":\"size\",\"sequence\":2}},\"skus\":[{\"uniqueId\":\"387770\",\"inventoryValue\":null,\"prices\":{\"price\":25.0,\"wasPrice\":null},\"attributes\":{\"PRODUCT_ATTR_SIZE_UK\":{\"attributeValue\":\"PRODUCT_VAL_XL\"},\"PRODUCT_ATTR_PRODUCT_ATTR_COLOUR\":{\"attributeValue\":\"PRODUCT_VAL_CK_BLACK\"}},\"partNumber\":\"8719113820369\"},{\"uniqueId\":\"387771\",\"inventoryValue\":null,\"prices\":{\"price\":25.0,\"wasPrice\":null},\"attributes\":{\"PRODUCT_ATTR_SIZE_UK\":{\"attributeValue\":\"PRODUCT_VAL_XXL\"},\"PRODUCT_ATTR_PRODUCT_ATTR_COLOUR\":{\"attributeValue\":\"PRODUCT_VAL_CK_BLACK\"}},\"partNumber\":\"8719113820376\"},{\"uniqueId\":\"387772\",\"inventoryValue\":null,\"prices\":{\"price\":25.0,\"wasPrice\":null},\"attributes\":{\"PRODUCT_ATTR_SIZE_UK\":{\"attributeValue\":\"PRODUCT_VAL_XS\"},\"PRODUCT_ATTR_PRODUCT_ATTR_COLOUR\":{\"attributeValue\":\"PRODUCT_VAL_CK_BLACK\"}},\"partNumber\":\"8719113820321\"},{\"uniqueId\":\"387773\",\"inventoryValue\":null,\"prices\":{\"price\":25.0,\"wasPrice\":null},\"attributes\":{\"PRODUCT_ATTR_SIZE_UK\":{\"attributeValue\":\"PRODUCT_VAL_S\"},\"PRODUCT_ATTR_PRODUCT_ATTR_COLOUR\":{\"attributeValue\":\"PRODUCT_VAL_CK_BLACK\"}},\"partNumber\":\"8719113820338\"},{\"uniqueId\":\"387774\",\"inventoryValue\":null,\"prices\":{\"price\":25.0,\"wasPrice\":null},\"attributes\":{\"PRODUCT_ATTR_SIZE_UK\":{\"attributeValue\":\"PRODUCT_VAL_M\"},\"PRODUCT_ATTR_PRODUCT_ATTR_COLOUR\":{\"attributeValue\":\"PRODUCT_VAL_CK_BLACK\"}},\"partNumber\":\"8719113820345\"},{\"uniqueId\":\"387775\",\"inventoryValue\":null,\"prices\":{\"price\":25.0,\"wasPrice\":null},\"attributes\":{\"PRODUCT_ATTR_SIZE_UK\":{\"attributeValue\":\"PRODUCT_VAL_L\"},\"PRODUCT_ATTR_PRODUCT_ATTR_COLOUR\":{\"attributeValue\":\"PRODUCT_VAL_CK_BLACK\"}},\"partNumber\":\"8719113820352\"},{\"uniqueId\":\"526113\",\"inventoryValue\":null,\"prices\":{\"price\":25.0,\"wasPrice\":null},\"attributes\":{\"PRODUCT_ATTR_SIZE_UK\":{\"attributeValue\":\"PRODUCT_VAL_XXL\"},\"PRODUCT_ATTR_PRODUCT_ATTR_COLOUR\":{\"attributeValue\":\"PRODUCT_VAL_BRIGHT_WHITE___SAFETY_YELLOW\"}},\"partNumber\":\"8719851504385\"},{\"uniqueId\":\"526114\",\"inventoryValue\":null,\"prices\":{\"price\":25.0,\"wasPrice\":null},\"attributes\":{\"PRODUCT_ATTR_SIZE_UK\":{\"attributeValue\":\"PRODUCT_VAL_XS\"},\"PRODUCT_ATTR_PRODUCT_ATTR_COLOUR\":{\"attributeValue\":\"PRODUCT_VAL_BRIGHT_WHITE___SAFETY_YELLOW\"}},\"partNumber\":\"8719851504330\"},{\"uniqueId\":\"526115\",\"inventoryValue\":null,\"prices\":{\"price\":25.0,\"wasPrice\":null},\"attributes\":{\"PRODUCT_ATTR_SIZE_UK\":{\"attributeValue\":\"PRODUCT_VAL_S\"},\"PRODUCT_ATTR_PRODUCT_ATTR_COLOUR\":{\"attributeValue\":\"PRODUCT_VAL_BRIGHT_WHITE___SAFETY_YELLOW\"}},\"partNumber\":\"8719851504347\"},{\"uniqueId\":\"526116\",\"inventoryValue\":null,\"prices\":{\"price\":25.0,\"wasPrice\":null},\"attributes\":{\"PRODUCT_ATTR_SIZE_UK\":{\"attributeValue\":\"PRODUCT_VAL_M\"},\"PRODUCT_ATTR_PRODUCT_ATTR_COLOUR\":{\"attributeValue\":\"PRODUCT_VAL_BRIGHT_WHITE___SAFETY_YELLOW\"}},\"partNumber\":\"8719851504354\"},{\"uniqueId\":\"526117\",\"inventoryValue\":null,\"prices\":{\"price\":25.0,\"wasPrice\":null},\"attributes\":{\"PRODUCT_ATTR_SIZE_UK\":{\"attributeValue\":\"PRODUCT_VAL_L\"},\"PRODUCT_ATTR_PRODUCT_ATTR_COLOUR\":{\"attributeValue\":\"PRODUCT_VAL_BRIGHT_WHITE___SAFETY_YELLOW\"}},\"partNumber\":\"8719851504361\"},{\"uniqueId\":\"526118\",\"inventoryValue\":null,\"prices\":{\"price\":25.0,\"wasPrice\":null},\"attributes\":{\"PRODUCT_ATTR_SIZE_UK\":{\"attributeValue\":\"PRODUCT_VAL_XL\"},\"PRODUCT_ATTR_PRODUCT_ATTR_COLOUR\":{\"attributeValue\":\"PRODUCT_VAL_BRIGHT_WHITE___SAFETY_YELLOW\"}},\"partNumber\":\"8719851504378\"},{\"uniqueId\":\"527135\",\"inventoryValue\":null,\"prices\":{\"price\":25.0,\"wasPrice\":null},\"attributes\":{\"PRODUCT_ATTR_SIZE_UK\":{\"attributeValue\":\"PRODUCT_VAL_XS\"},\"PRODUCT_ATTR_PRODUCT_ATTR_COLOUR\":{\"attributeValue\":\"PRODUCT_VAL_NIGHT_SKY___ICELAND_POPPY\"}},\"partNumber\":\"8719851504392\"},{\"uniqueId\":\"527136\",\"inventoryValue\":null,\"prices\":{\"price\":25.0,\"wasPrice\":null},\"attributes\":{\"PRODUCT_ATTR_SIZE_UK\":{\"attributeValue\":\"PRODUCT_VAL_S\"},\"PRODUCT_ATTR_PRODUCT_ATTR_COLOUR\":{\"attributeValue\":\"PRODUCT_VAL_NIGHT_SKY___ICELAND_POPPY\"}},\"partNumber\":\"8719851504705\"},{\"uniqueId\":\"527137\",\"inventoryValue\":null,\"prices\":{\"price\":25.0,\"wasPrice\":null},\"attributes\":{\"PRODUCT_ATTR_SIZE_UK\":{\"attributeValue\":\"PRODUCT_VAL_M\"},\"PRODUCT_ATTR_PRODUCT_ATTR_COLOUR\":{\"attributeValue\":\"PRODUCT_VAL_NIGHT_SKY___ICELAND_POPPY\"}},\"partNumber\":\"8719851504712\"},{\"uniqueId\":\"527138\",\"inventoryValue\":null,\"prices\":{\"price\":25.0,\"wasPrice\":null},\"attributes\":{\"PRODUCT_ATTR_SIZE_UK\":{\"attributeValue\":\"PRODUCT_VAL_L\"},\"PRODUCT_ATTR_PRODUCT_ATTR_COLOUR\":{\"attributeValue\":\"PRODUCT_VAL_NIGHT_SKY___ICELAND_POPPY\"}},\"partNumber\":\"8719851504729\"},{\"uniqueId\":\"527139\",\"inventoryValue\":null,\"prices\":{\"price\":25.0,\"wasPrice\":null},\"attributes\":{\"PRODUCT_ATTR_SIZE_UK\":{\"attributeValue\":\"PRODUCT_VAL_XL\"},\"PRODUCT_ATTR_PRODUCT_ATTR_COLOUR\":{\"attributeValue\":\"PRODUCT_VAL_NIGHT_SKY___ICELAND_POPPY\"}},\"partNumber\":\"8719851504736\"},{\"uniqueId\":\"527140\",\"inventoryValue\":null,\"prices\":{\"price\":25.0,\"wasPrice\":null},\"attributes\":{\"PRODUCT_ATTR_SIZE_UK\":{\"attributeValue\":\"PRODUCT_VAL_XXL\"},\"PRODUCT_ATTR_PRODUCT_ATTR_COLOUR\":{\"attributeValue\":\"PRODUCT_VAL_NIGHT_SKY___ICELAND_POPPY\"}},\"partNumber\":\"8719851504743\"}],\"combis\":{\"attributeIdentifier\":\"PRODUCT_ATTR_PRODUCT_ATTR_COLOUR\",\"data\":[{\"colourCode\":\"J30J307852_099\",\"imageCount\":9,\"attributeValue\":\"PRODUCT_VAL_CK_BLACK\",\"pdp\":\"slim-organic-cotton-t-shirt-j30j307852099\"},{\"colourCode\":\"J30J307852_901\",\"imageCount\":5,\"attributeValue\":\"PRODUCT_VAL_BRIGHT_WHITE___SAFETY_YELLOW\",\"pdp\":\"slim-organic-cotton-t-shirt-j30j307852901\"},{\"colourCode\":\"J30J307852_902\",\"imageCount\":5,\"attributeValue\":\"PRODUCT_VAL_NIGHT_SKY___ICELAND_POPPY\",\"pdp\":\"slim-organic-cotton-t-shirt-j30j307852902\"}]},\"selectedSku\":null,\"inventoryLoading\":false,\"inventoryError\":false,\"inventoryLoaded\":false,\"selectedAttributes\":{\"PRODUCT_ATTR_PRODUCT_ATTR_COLOUR\":\"PRODUCT_VAL_CK_BLACK\",\"PRODUCT_ATTR_SIZE_UK\":null},\"description\":\"• organic cotton<BR>• slim fit<BR>• crew neckline<BR>• short sleeves<BR>• soft washed finish<BR>• CALVIN KLEIN logo print on the chest <BR><BR>This T-shirt is crafted with 100% sustainable materials.<BR><BR>Our model is 1.86m and is wearing a size M.<BR><BR>100% cotton<BR>machine wash<BR>do not tumble dry<BR>fits true to size\",\"primaryAttribute\":\"PRODUCT_ATTR_PRODUCT_ATTR_COLOUR\"},\"sapSizeGuide\":\"PH02\",\"primaryCategory\":\"10188:D70_DE|10202:D70_IBE|10203:D70_SCAN|10204:D70_UKI\",\"productSeoKeyword\":\"men for men\",\"canonicalUrl\":\"slim-organic-cotton-t-shirt-j30j307852039\",\"redirectView\":null,\"mechantHierarchy\":\"D622008\",\"division\":\"CK Jeans-Men-T-Shirts\",\"clickReserve\":0,\"resultId\":\"43e8515b-67ca-46cf-b866-84b7f2c6fcab\",\"campaignView\":{\"campaignContent\":[]},\"comingSoon\":false,\"brandName\":\"CALVIN KLEIN JEANS\",\"analyticsColour\":\"BLACK\",\"colour\":\"CK BLACK\",\"name\":\"Slim Organic Cotton T-shirt\",\"partNumber\":\"J30J307852099\",\"price\":{\"price\":25.0,\"wasPrice\":null},\"relatedCombis\":[{\"partnumber\":\"J30J307852099\",\"colourCode\":\"J30J307852_099\",\"label\":\"CK BLACK\",\"mainColour\":\"BLACK\",\"pdp\":\"slim-organic-cotton-t-shirt-j30j307852099\",\"promoActivity\":true,\"productId\":\"387769\",\"translatedColour\":null,\"comingSoon\":false,\"markdownPercentage\":null,\"promotion\":null,\"isNew\":false,\"soldout\":false,\"discountMessage\":null},{\"partnumber\":\"J30J307852901\",\"colourCode\":\"J30J307852_901\",\"label\":\"BRIGHT WHITE / SAFETY YELLOW\",\"mainColour\":\"WHITE\",\"pdp\":\"slim-organic-cotton-t-shirt-j30j307852901\",\"promoActivity\":true,\"productId\":\"526112\",\"translatedColour\":\"WHITE\",\"comingSoon\":true,\"markdownPercentage\":null,\"promotion\":null,\"isNew\":false,\"soldout\":false,\"discountMessage\":null},{\"partnumber\":\"J30J307852902\",\"colourCode\":\"J30J307852_902\",\"label\":\"NIGHT SKY / ICELAND POPPY\",\"mainColour\":\"BLUE\",\"pdp\":\"slim-organic-cotton-t-shirt-j30j307852902\",\"promoActivity\":true,\"productId\":\"527134\",\"translatedColour\":\"BLUE\",\"comingSoon\":true,\"markdownPercentage\":null,\"promotion\":null,\"isNew\":false,\"soldout\":false,\"discountMessage\":null}],\"stylePartNumber\":\"J30J307852\",\"colourCode\":\"099\",\"markdownPercentage\":null,\"promotion\":null,\"userDataField\":[{\"key\":\"description\",\"value\":\"• organic cotton<BR>• slim fit<BR>• crew neckline<BR>• short sleeves<BR>• soft washed finish<BR>• CALVIN KLEIN logo print on the chest <BR><BR>This T-shirt is crafted with 100% sustainable materials.<BR><BR>Our model is 1.86m and is wearing a size M.<BR><BR>100% cotton<BR>machine wash<BR>do not tumble dry<BR>fits true to size\"},{\"key\":\"product_attr_alt_image_count\",\"value\":\"9\"},{\"key\":\"onsale_uk\",\"value\":\"0\"},{\"key\":\"possible_variant_size_uk\",\"value\":\"v387770:12:XL|v387771:14:XXL|v387772:4:XS|v387773:6:S|v387774:8:M|v387775:10:L\"},{\"key\":\"search_categories\",\"value\":\"Calvin Klein\"},{\"key\":\"seo_url\",\"value\":\"44|slim-organic-cotton-t-shirt-j30j307852099\"},{\"key\":\"size_uk\",\"value\":\"4:XS\"},{\"key\":\"stylepartnumber\",\"value\":\"J30J307852\"},{\"key\":\"style\",\"value\":\"T-shirts\"},{\"key\":\"fitfortops\",\"value\":\"Slim\"},{\"key\":\"possible_variant_size_uk\",\"value\":\"v387770:12:XL|v387771:14:XXL|v387772:4:XS|v387773:6:S|v387774:8:M|v387775:10:L\"},{\"key\":\"skupartnumbers\",\"value\":\"387770,8719113820369|387771,8719113820376|387772,8719113820321|387773,8719113820338|387774,8719113820345|387775,8719113820352\"},{\"key\":\"cksizeguide\",\"value\":\"CKJEANS_menTops\"}],\"productId\":\"387769\",\"benefits\":[],\"analyticsName\":\"Slim Organic Cotton T-shirt\",\"gender\":\"men\",\"relatedProducts\":[{\"partnumber\":null,\"relatedPartnumber\":null,\"pdp\":null,\"brand\":null,\"brandUrl\":null},{\"partnumber\":null,\"relatedPartnumber\":null,\"pdp\":null,\"brand\":null,\"brandUrl\":null},{\"partnumber\":null,\"relatedPartnumber\":null,\"pdp\":null,\"brand\":null,\"brandUrl\":null}],\"translatedColour\":null}",
+      "_type": "JavaClass",
+      "searchResults": {
+        "relatedProducts": null,
+        "comingSoon": false,
+        "stylePartNumber": "J30J307852",
+        "promotion": null,
+        "analyticsColour": "BLACK",
+        "resultId": "43e8515b-67ca-46cf-b866-84b7f2c6fcab",
+        "brandName": "CALVIN KLEIN JEANS",
+        "userDataField": null,
+        "mechantHierarchy": "D622008",
+        "colour": "CK BLACK",
+        "clickReserve": 0,
+        "_type": "JavaClass",
+        "division": "CK Jeans-Men-T-Shirts",
+        "sapSizeGuide": "PH02",
+        "details": {
+          "inventoryLoaded": false,
+          "inventoryLoading": false,
+          "_type": "JavaClass",
+          "inventoryError": false,
+          "selectedAttributes": {
+            "PRODUCT_ATTR_SIZE_UK": null,
+            "PRODUCT_ATTR_PRODUCT_ATTR_COLOUR": "PRODUCT_VAL_CK_BLACK"
+          },
+          "primaryAttribute": "PRODUCT_ATTR_PRODUCT_ATTR_COLOUR",
+          "combis": {
+            "_type": "JavaClass",
+            "attributeIdentifier": "PRODUCT_ATTR_PRODUCT_ATTR_COLOUR",
+            "_classname": "com.pvh.commerce.search.builder.model.CombisView",
+            "data": null,
+            "class": "com.pvh.commerce.search.builder.model.CombisView"
+          },
+          "_classname": "com.pvh.commerce.search.builder.model.DetailsView",
+          "description": "• organic cotton<BR>• slim fit<BR>• crew neckline<BR>• short sleeves<BR>• soft washed finish<BR>• CALVIN KLEIN logo print on the chest <BR><BR>This T-shirt is crafted with 100% sustainable materials.<BR><BR>Our model is 1.86m and is wearing a size M.<BR><BR>100% cotton<BR>machine wash<BR>do not tumble dry<BR>fits true to size",
+          "class": "com.pvh.commerce.search.builder.model.DetailsView",
+          "skus": null,
+          "attributes": {
+            "PRODUCT_ATTR_SIZE_UK": {
+              "_type": "JavaClass",
+              "values": {
+                "PRODUCT_VAL_M": {
+                  "selectableSku": true,
+                  "_type": "JavaClass",
+                  "selectableStock": true,
+                  "_classname": "com.pvh.commerce.search.builder.model.DetailsView$ValueView",
+                  "sequence": 8,
+                  "class": "com.pvh.commerce.search.builder.model.DetailsView$ValueView",
+                  "label": "M"
+                },
+                "PRODUCT_VAL_XL": {
+                  "selectableSku": true,
+                  "_type": "JavaClass",
+                  "selectableStock": true,
+                  "_classname": "com.pvh.commerce.search.builder.model.DetailsView$ValueView",
+                  "sequence": 12,
+                  "class": "com.pvh.commerce.search.builder.model.DetailsView$ValueView",
+                  "label": "XL"
+                },
+                "PRODUCT_VAL_L": {
+                  "selectableSku": true,
+                  "_type": "JavaClass",
+                  "selectableStock": true,
+                  "_classname": "com.pvh.commerce.search.builder.model.DetailsView$ValueView",
+                  "sequence": 10,
+                  "class": "com.pvh.commerce.search.builder.model.DetailsView$ValueView",
+                  "label": "L"
+                },
+                "PRODUCT_VAL_XS": {
+                  "selectableSku": true,
+                  "_type": "JavaClass",
+                  "selectableStock": true,
+                  "_classname": "com.pvh.commerce.search.builder.model.DetailsView$ValueView",
+                  "sequence": 4,
+                  "class": "com.pvh.commerce.search.builder.model.DetailsView$ValueView",
+                  "label": "XS"
+                },
+                "PRODUCT_VAL_XXL": {
+                  "selectableSku": true,
+                  "_type": "JavaClass",
+                  "selectableStock": true,
+                  "_classname": "com.pvh.commerce.search.builder.model.DetailsView$ValueView",
+                  "sequence": 14,
+                  "class": "com.pvh.commerce.search.builder.model.DetailsView$ValueView",
+                  "label": "XXL"
+                },
+                "PRODUCT_VAL_S": {
+                  "selectableSku": true,
+                  "_type": "JavaClass",
+                  "selectableStock": true,
+                  "_classname": "com.pvh.commerce.search.builder.model.DetailsView$ValueView",
+                  "sequence": 6,
+                  "class": "com.pvh.commerce.search.builder.model.DetailsView$ValueView",
+                  "label": "S"
+                }
+              },
+              "_classname": "com.pvh.commerce.search.builder.model.DetailsView$AttributeView",
+              "sequence": 2,
+              "name": "size",
+              "class": "com.pvh.commerce.search.builder.model.DetailsView$AttributeView"
+            },
+            "PRODUCT_ATTR_PRODUCT_ATTR_COLOUR": {
+              "_type": "JavaClass",
+              "values": {
+                "PRODUCT_VAL_CK_BLACK": {
+                  "selectableSku": true,
+                  "_type": "JavaClass",
+                  "selectableStock": true,
+                  "_classname": "com.pvh.commerce.search.builder.model.DetailsView$ValueView",
+                  "sequence": 1,
+                  "class": "com.pvh.commerce.search.builder.model.DetailsView$ValueView",
+                  "label": "CK BLACK"
+                },
+                "PRODUCT_VAL_NIGHT_SKY___ICELAND_POPPY": {
+                  "selectableSku": true,
+                  "_type": "JavaClass",
+                  "selectableStock": true,
+                  "_classname": "com.pvh.commerce.search.builder.model.DetailsView$ValueView",
+                  "sequence": 3,
+                  "class": "com.pvh.commerce.search.builder.model.DetailsView$ValueView",
+                  "label": "NIGHT SKY / ICELAND POPPY"
+                },
+                "PRODUCT_VAL_BRIGHT_WHITE___SAFETY_YELLOW": {
+                  "selectableSku": true,
+                  "_type": "JavaClass",
+                  "selectableStock": true,
+                  "_classname": "com.pvh.commerce.search.builder.model.DetailsView$ValueView",
+                  "sequence": 2,
+                  "class": "com.pvh.commerce.search.builder.model.DetailsView$ValueView",
+                  "label": "BRIGHT WHITE / SAFETY YELLOW"
+                }
+              },
+              "_classname": "com.pvh.commerce.search.builder.model.DetailsView$AttributeView",
+              "sequence": 1,
+              "name": "Colour",
+              "class": "com.pvh.commerce.search.builder.model.DetailsView$AttributeView"
+            }
+          },
+          "selectedSku": null
+        },
+        "_classname": "com.pvh.commerce.search.builder.model.CatalogEntryDetailsView",
+        "canonicalUrl": "slim-organic-cotton-t-shirt-j30j307852039",
+        "name": "Slim Organic Cotton T-shirt",
+        "translatedColour": null,
+        "gender": "men",
+        "colourCode": "099",
+        "partNumber": "J30J307852099",
+        "campaignView": {
+          "_type": "JavaClass",
+          "_classname": "com.pvh.commerce.search.builder.model.CampaignView",
+          "class": "com.pvh.commerce.search.builder.model.CampaignView",
+          "campaignContent": null
+        },
+        "analyticsName": "Slim Organic Cotton T-shirt",
+        "primaryCategory": "10188:D70_DE|10202:D70_IBE|10203:D70_SCAN|10204:D70_UKI",
+        "sizeGuideGender": "gender_men",
+        "class": "com.pvh.commerce.search.builder.model.CatalogEntryDetailsView",
+        "available": false,
+        "productId": "387769",
+        "redirectView": null,
+        "price": {
+          "_type": "JavaClass",
+          "price": 25,
+          "_classname": "com.pvh.commerce.search.builder.model.Price",
+          "maxWasPrice": null,
+          "class": "com.pvh.commerce.search.builder.model.Price",
+          "maxPrice": null,
+          "wasPrice": null
+        },
+        "relatedCombis": null,
+        "markdownPercentage": null,
+        "benefits": null,
+        "productSeoKeyword": "men for men",
+        "soldout": false
+      },
+      "_classname": "com.pvh.commerce.search.pagebean.SearchResultWrapper",
+      "class": "com.pvh.commerce.search.pagebean.SearchResultWrapper",
+      "asFormattedJson": "{\r\n  \"sizeGuideGender\" : \"gender_men\",\r\n  \"soldout\" : false,\r\n  \"available\" : false,\r\n  \"details\" : {\r\n    \"attributes\" : {\r\n      \"PRODUCT_ATTR_PRODUCT_ATTR_COLOUR\" : {\r\n        \"values\" : {\r\n          \"PRODUCT_VAL_CK_BLACK\" : {\r\n            \"label\" : \"CK BLACK\",\r\n            \"sequence\" : 1,\r\n            \"selectableSku\" : true,\r\n            \"selectableStock\" : true\r\n          },\r\n          \"PRODUCT_VAL_BRIGHT_WHITE___SAFETY_YELLOW\" : {\r\n            \"label\" : \"BRIGHT WHITE / SAFETY YELLOW\",\r\n            \"sequence\" : 2,\r\n            \"selectableSku\" : true,\r\n            \"selectableStock\" : true\r\n          },\r\n          \"PRODUCT_VAL_NIGHT_SKY___ICELAND_POPPY\" : {\r\n            \"label\" : \"NIGHT SKY / ICELAND POPPY\",\r\n            \"sequence\" : 3,\r\n            \"selectableSku\" : true,\r\n            \"selectableStock\" : true\r\n          }\r\n        },\r\n        \"name\" : \"Colour\",\r\n        \"sequence\" : 1\r\n      },\r\n      \"PRODUCT_ATTR_SIZE_UK\" : {\r\n        \"values\" : {\r\n          \"PRODUCT_VAL_XL\" : {\r\n            \"label\" : \"XL\",\r\n            \"sequence\" : 12,\r\n            \"selectableSku\" : true,\r\n            \"selectableStock\" : true\r\n          },\r\n          \"PRODUCT_VAL_XXL\" : {\r\n            \"label\" : \"XXL\",\r\n            \"sequence\" : 14,\r\n            \"selectableSku\" : true,\r\n            \"selectableStock\" : true\r\n          },\r\n          \"PRODUCT_VAL_XS\" : {\r\n            \"label\" : \"XS\",\r\n            \"sequence\" : 4,\r\n            \"selectableSku\" : true,\r\n            \"selectableStock\" : true\r\n          },\r\n          \"PRODUCT_VAL_S\" : {\r\n            \"label\" : \"S\",\r\n            \"sequence\" : 6,\r\n            \"selectableSku\" : true,\r\n            \"selectableStock\" : true\r\n          },\r\n          \"PRODUCT_VAL_M\" : {\r\n            \"label\" : \"M\",\r\n            \"sequence\" : 8,\r\n            \"selectableSku\" : true,\r\n            \"selectableStock\" : true\r\n          },\r\n          \"PRODUCT_VAL_L\" : {\r\n            \"label\" : \"L\",\r\n            \"sequence\" : 10,\r\n            \"selectableSku\" : true,\r\n            \"selectableStock\" : true\r\n          }\r\n        },\r\n        \"name\" : \"size\",\r\n        \"sequence\" : 2\r\n      }\r\n    },\r\n    \"skus\" : [ {\r\n      \"uniqueId\" : \"387770\",\r\n      \"inventoryValue\" : null,\r\n      \"prices\" : {\r\n        \"price\" : 25.0,\r\n        \"wasPrice\" : null\r\n      },\r\n      \"attributes\" : {\r\n        \"PRODUCT_ATTR_SIZE_UK\" : {\r\n          \"attributeValue\" : \"PRODUCT_VAL_XL\"\r\n        },\r\n        \"PRODUCT_ATTR_PRODUCT_ATTR_COLOUR\" : {\r\n          \"attributeValue\" : \"PRODUCT_VAL_CK_BLACK\"\r\n        }\r\n      },\r\n      \"partNumber\" : \"8719113820369\"\r\n    }, {\r\n      \"uniqueId\" : \"387771\",\r\n      \"inventoryValue\" : null,\r\n      \"prices\" : {\r\n        \"price\" : 25.0,\r\n        \"wasPrice\" : null\r\n      },\r\n      \"attributes\" : {\r\n        \"PRODUCT_ATTR_SIZE_UK\" : {\r\n          \"attributeValue\" : \"PRODUCT_VAL_XXL\"\r\n        },\r\n        \"PRODUCT_ATTR_PRODUCT_ATTR_COLOUR\" : {\r\n          \"attributeValue\" : \"PRODUCT_VAL_CK_BLACK\"\r\n        }\r\n      },\r\n      \"partNumber\" : \"8719113820376\"\r\n    }, {\r\n      \"uniqueId\" : \"387772\",\r\n      \"inventoryValue\" : null,\r\n      \"prices\" : {\r\n        \"price\" : 25.0,\r\n        \"wasPrice\" : null\r\n      },\r\n      \"attributes\" : {\r\n        \"PRODUCT_ATTR_SIZE_UK\" : {\r\n          \"attributeValue\" : \"PRODUCT_VAL_XS\"\r\n        },\r\n        \"PRODUCT_ATTR_PRODUCT_ATTR_COLOUR\" : {\r\n          \"attributeValue\" : \"PRODUCT_VAL_CK_BLACK\"\r\n        }\r\n      },\r\n      \"partNumber\" : \"8719113820321\"\r\n    }, {\r\n      \"uniqueId\" : \"387773\",\r\n      \"inventoryValue\" : null,\r\n      \"prices\" : {\r\n        \"price\" : 25.0,\r\n        \"wasPrice\" : null\r\n      },\r\n      \"attributes\" : {\r\n        \"PRODUCT_ATTR_SIZE_UK\" : {\r\n          \"attributeValue\" : \"PRODUCT_VAL_S\"\r\n        },\r\n        \"PRODUCT_ATTR_PRODUCT_ATTR_COLOUR\" : {\r\n          \"attributeValue\" : \"PRODUCT_VAL_CK_BLACK\"\r\n        }\r\n      },\r\n      \"partNumber\" : \"8719113820338\"\r\n    }, {\r\n      \"uniqueId\" : \"387774\",\r\n      \"inventoryValue\" : null,\r\n      \"prices\" : {\r\n        \"price\" : 25.0,\r\n        \"wasPrice\" : null\r\n      },\r\n      \"attributes\" : {\r\n        \"PRODUCT_ATTR_SIZE_UK\" : {\r\n          \"attributeValue\" : \"PRODUCT_VAL_M\"\r\n        },\r\n        \"PRODUCT_ATTR_PRODUCT_ATTR_COLOUR\" : {\r\n          \"attributeValue\" : \"PRODUCT_VAL_CK_BLACK\"\r\n        }\r\n      },\r\n      \"partNumber\" : \"8719113820345\"\r\n    }, {\r\n      \"uniqueId\" : \"387775\",\r\n      \"inventoryValue\" : null,\r\n      \"prices\" : {\r\n        \"price\" : 25.0,\r\n        \"wasPrice\" : null\r\n      },\r\n      \"attributes\" : {\r\n        \"PRODUCT_ATTR_SIZE_UK\" : {\r\n          \"attributeValue\" : \"PRODUCT_VAL_L\"\r\n        },\r\n        \"PRODUCT_ATTR_PRODUCT_ATTR_COLOUR\" : {\r\n          \"attributeValue\" : \"PRODUCT_VAL_CK_BLACK\"\r\n        }\r\n      },\r\n      \"partNumber\" : \"8719113820352\"\r\n    }, {\r\n      \"uniqueId\" : \"526113\",\r\n      \"inventoryValue\" : null,\r\n      \"prices\" : {\r\n        \"price\" : 25.0,\r\n        \"wasPrice\" : null\r\n      },\r\n      \"attributes\" : {\r\n        \"PRODUCT_ATTR_SIZE_UK\" : {\r\n          \"attributeValue\" : \"PRODUCT_VAL_XXL\"\r\n        },\r\n        \"PRODUCT_ATTR_PRODUCT_ATTR_COLOUR\" : {\r\n          \"attributeValue\" : \"PRODUCT_VAL_BRIGHT_WHITE___SAFETY_YELLOW\"\r\n        }\r\n      },\r\n      \"partNumber\" : \"8719851504385\"\r\n    }, {\r\n      \"uniqueId\" : \"526114\",\r\n      \"inventoryValue\" : null,\r\n      \"prices\" : {\r\n        \"price\" : 25.0,\r\n        \"wasPrice\" : null\r\n      },\r\n      \"attributes\" : {\r\n        \"PRODUCT_ATTR_SIZE_UK\" : {\r\n          \"attributeValue\" : \"PRODUCT_VAL_XS\"\r\n        },\r\n        \"PRODUCT_ATTR_PRODUCT_ATTR_COLOUR\" : {\r\n          \"attributeValue\" : \"PRODUCT_VAL_BRIGHT_WHITE___SAFETY_YELLOW\"\r\n        }\r\n      },\r\n      \"partNumber\" : \"8719851504330\"\r\n    }, {\r\n      \"uniqueId\" : \"526115\",\r\n      \"inventoryValue\" : null,\r\n      \"prices\" : {\r\n        \"price\" : 25.0,\r\n        \"wasPrice\" : null\r\n      },\r\n      \"attributes\" : {\r\n        \"PRODUCT_ATTR_SIZE_UK\" : {\r\n          \"attributeValue\" : \"PRODUCT_VAL_S\"\r\n        },\r\n        \"PRODUCT_ATTR_PRODUCT_ATTR_COLOUR\" : {\r\n          \"attributeValue\" : \"PRODUCT_VAL_BRIGHT_WHITE___SAFETY_YELLOW\"\r\n        }\r\n      },\r\n      \"partNumber\" : \"8719851504347\"\r\n    }, {\r\n      \"uniqueId\" : \"526116\",\r\n      \"inventoryValue\" : null,\r\n      \"prices\" : {\r\n        \"price\" : 25.0,\r\n        \"wasPrice\" : null\r\n      },\r\n      \"attributes\" : {\r\n        \"PRODUCT_ATTR_SIZE_UK\" : {\r\n          \"attributeValue\" : \"PRODUCT_VAL_M\"\r\n        },\r\n        \"PRODUCT_ATTR_PRODUCT_ATTR_COLOUR\" : {\r\n          \"attributeValue\" : \"PRODUCT_VAL_BRIGHT_WHITE___SAFETY_YELLOW\"\r\n        }\r\n      },\r\n      \"partNumber\" : \"8719851504354\"\r\n    }, {\r\n      \"uniqueId\" : \"526117\",\r\n      \"inventoryValue\" : null,\r\n      \"prices\" : {\r\n        \"price\" : 25.0,\r\n        \"wasPrice\" : null\r\n      },\r\n      \"attributes\" : {\r\n        \"PRODUCT_ATTR_SIZE_UK\" : {\r\n          \"attributeValue\" : \"PRODUCT_VAL_L\"\r\n        },\r\n        \"PRODUCT_ATTR_PRODUCT_ATTR_COLOUR\" : {\r\n          \"attributeValue\" : \"PRODUCT_VAL_BRIGHT_WHITE___SAFETY_YELLOW\"\r\n        }\r\n      },\r\n      \"partNumber\" : \"8719851504361\"\r\n    }, {\r\n      \"uniqueId\" : \"526118\",\r\n      \"inventoryValue\" : null,\r\n      \"prices\" : {\r\n        \"price\" : 25.0,\r\n        \"wasPrice\" : null\r\n      },\r\n      \"attributes\" : {\r\n        \"PRODUCT_ATTR_SIZE_UK\" : {\r\n          \"attributeValue\" : \"PRODUCT_VAL_XL\"\r\n        },\r\n        \"PRODUCT_ATTR_PRODUCT_ATTR_COLOUR\" : {\r\n          \"attributeValue\" : \"PRODUCT_VAL_BRIGHT_WHITE___SAFETY_YELLOW\"\r\n        }\r\n      },\r\n      \"partNumber\" : \"8719851504378\"\r\n    }, {\r\n      \"uniqueId\" : \"527135\",\r\n      \"inventoryValue\" : null,\r\n      \"prices\" : {\r\n        \"price\" : 25.0,\r\n        \"wasPrice\" : null\r\n      },\r\n      \"attributes\" : {\r\n        \"PRODUCT_ATTR_SIZE_UK\" : {\r\n          \"attributeValue\" : \"PRODUCT_VAL_XS\"\r\n        },\r\n        \"PRODUCT_ATTR_PRODUCT_ATTR_COLOUR\" : {\r\n          \"attributeValue\" : \"PRODUCT_VAL_NIGHT_SKY___ICELAND_POPPY\"\r\n        }\r\n      },\r\n      \"partNumber\" : \"8719851504392\"\r\n    }, {\r\n      \"uniqueId\" : \"527136\",\r\n      \"inventoryValue\" : null,\r\n      \"prices\" : {\r\n        \"price\" : 25.0,\r\n        \"wasPrice\" : null\r\n      },\r\n      \"attributes\" : {\r\n        \"PRODUCT_ATTR_SIZE_UK\" : {\r\n          \"attributeValue\" : \"PRODUCT_VAL_S\"\r\n        },\r\n        \"PRODUCT_ATTR_PRODUCT_ATTR_COLOUR\" : {\r\n          \"attributeValue\" : \"PRODUCT_VAL_NIGHT_SKY___ICELAND_POPPY\"\r\n        }\r\n      },\r\n      \"partNumber\" : \"8719851504705\"\r\n    }, {\r\n      \"uniqueId\" : \"527137\",\r\n      \"inventoryValue\" : null,\r\n      \"prices\" : {\r\n        \"price\" : 25.0,\r\n        \"wasPrice\" : null\r\n      },\r\n      \"attributes\" : {\r\n        \"PRODUCT_ATTR_SIZE_UK\" : {\r\n          \"attributeValue\" : \"PRODUCT_VAL_M\"\r\n        },\r\n        \"PRODUCT_ATTR_PRODUCT_ATTR_COLOUR\" : {\r\n          \"attributeValue\" : \"PRODUCT_VAL_NIGHT_SKY___ICELAND_POPPY\"\r\n        }\r\n      },\r\n      \"partNumber\" : \"8719851504712\"\r\n    }, {\r\n      \"uniqueId\" : \"527138\",\r\n      \"inventoryValue\" : null,\r\n      \"prices\" : {\r\n        \"price\" : 25.0,\r\n        \"wasPrice\" : null\r\n      },\r\n      \"attributes\" : {\r\n        \"PRODUCT_ATTR_SIZE_UK\" : {\r\n          \"attributeValue\" : \"PRODUCT_VAL_L\"\r\n        },\r\n        \"PRODUCT_ATTR_PRODUCT_ATTR_COLOUR\" : {\r\n          \"attributeValue\" : \"PRODUCT_VAL_NIGHT_SKY___ICELAND_POPPY\"\r\n        }\r\n      },\r\n      \"partNumber\" : \"8719851504729\"\r\n    }, {\r\n      \"uniqueId\" : \"527139\",\r\n      \"inventoryValue\" : null,\r\n      \"prices\" : {\r\n        \"price\" : 25.0,\r\n        \"wasPrice\" : null\r\n      },\r\n      \"attributes\" : {\r\n        \"PRODUCT_ATTR_SIZE_UK\" : {\r\n          \"attributeValue\" : \"PRODUCT_VAL_XL\"\r\n        },\r\n        \"PRODUCT_ATTR_PRODUCT_ATTR_COLOUR\" : {\r\n          \"attributeValue\" : \"PRODUCT_VAL_NIGHT_SKY___ICELAND_POPPY\"\r\n        }\r\n      },\r\n      \"partNumber\" : \"8719851504736\"\r\n    }, {\r\n      \"uniqueId\" : \"527140\",\r\n      \"inventoryValue\" : null,\r\n      \"prices\" : {\r\n        \"price\" : 25.0,\r\n        \"wasPrice\" : null\r\n      },\r\n      \"attributes\" : {\r\n        \"PRODUCT_ATTR_SIZE_UK\" : {\r\n          \"attributeValue\" : \"PRODUCT_VAL_XXL\"\r\n        },\r\n        \"PRODUCT_ATTR_PRODUCT_ATTR_COLOUR\" : {\r\n          \"attributeValue\" : \"PRODUCT_VAL_NIGHT_SKY___ICELAND_POPPY\"\r\n        }\r\n      },\r\n      \"partNumber\" : \"8719851504743\"\r\n    } ],\r\n    \"combis\" : {\r\n      \"attributeIdentifier\" : \"PRODUCT_ATTR_PRODUCT_ATTR_COLOUR\",\r\n      \"data\" : [ {\r\n        \"colourCode\" : \"J30J307852_099\",\r\n        \"imageCount\" : 9,\r\n        \"attributeValue\" : \"PRODUCT_VAL_CK_BLACK\",\r\n        \"pdp\" : \"slim-organic-cotton-t-shirt-j30j307852099\"\r\n      }, {\r\n        \"colourCode\" : \"J30J307852_901\",\r\n        \"imageCount\" : 5,\r\n        \"attributeValue\" : \"PRODUCT_VAL_BRIGHT_WHITE___SAFETY_YELLOW\",\r\n        \"pdp\" : \"slim-organic-cotton-t-shirt-j30j307852901\"\r\n      }, {\r\n        \"colourCode\" : \"J30J307852_902\",\r\n        \"imageCount\" : 5,\r\n        \"attributeValue\" : \"PRODUCT_VAL_NIGHT_SKY___ICELAND_POPPY\",\r\n        \"pdp\" : \"slim-organic-cotton-t-shirt-j30j307852902\"\r\n      } ]\r\n    },\r\n    \"selectedSku\" : null,\r\n    \"inventoryLoading\" : false,\r\n    \"inventoryError\" : false,\r\n    \"inventoryLoaded\" : false,\r\n    \"selectedAttributes\" : {\r\n      \"PRODUCT_ATTR_PRODUCT_ATTR_COLOUR\" : \"PRODUCT_VAL_CK_BLACK\",\r\n      \"PRODUCT_ATTR_SIZE_UK\" : null\r\n    },\r\n    \"description\" : \"• organic cotton<BR>• slim fit<BR>• crew neckline<BR>• short sleeves<BR>• soft washed finish<BR>• CALVIN KLEIN logo print on the chest <BR><BR>This T-shirt is crafted with 100% sustainable materials.<BR><BR>Our model is 1.86m and is wearing a size M.<BR><BR>100% cotton<BR>machine wash<BR>do not tumble dry<BR>fits true to size\",\r\n    \"primaryAttribute\" : \"PRODUCT_ATTR_PRODUCT_ATTR_COLOUR\"\r\n  },\r\n  \"sapSizeGuide\" : \"PH02\",\r\n  \"primaryCategory\" : \"10188:D70_DE|10202:D70_IBE|10203:D70_SCAN|10204:D70_UKI\",\r\n  \"productSeoKeyword\" : \"men for men\",\r\n  \"canonicalUrl\" : \"slim-organic-cotton-t-shirt-j30j307852039\",\r\n  \"redirectView\" : null,\r\n  \"mechantHierarchy\" : \"D622008\",\r\n  \"division\" : \"CK Jeans-Men-T-Shirts\",\r\n  \"clickReserve\" : 0,\r\n  \"resultId\" : \"43e8515b-67ca-46cf-b866-84b7f2c6fcab\",\r\n  \"campaignView\" : {\r\n    \"campaignContent\" : [ ]\r\n  },\r\n  \"comingSoon\" : false,\r\n  \"brandName\" : \"CALVIN KLEIN JEANS\",\r\n  \"analyticsColour\" : \"BLACK\",\r\n  \"colour\" : \"CK BLACK\",\r\n  \"name\" : \"Slim Organic Cotton T-shirt\",\r\n  \"partNumber\" : \"J30J307852099\",\r\n  \"price\" : {\r\n    \"price\" : 25.0,\r\n    \"wasPrice\" : null\r\n  },\r\n  \"relatedCombis\" : [ {\r\n    \"partnumber\" : \"J30J307852099\",\r\n    \"colourCode\" : \"J30J307852_099\",\r\n    \"label\" : \"CK BLACK\",\r\n    \"mainColour\" : \"BLACK\",\r\n    \"pdp\" : \"slim-organic-cotton-t-shirt-j30j307852099\",\r\n    \"promoActivity\" : true,\r\n    \"productId\" : \"387769\",\r\n    \"translatedColour\" : null,\r\n    \"comingSoon\" : false,\r\n    \"markdownPercentage\" : null,\r\n    \"promotion\" : null,\r\n    \"isNew\" : false,\r\n    \"soldout\" : false,\r\n    \"discountMessage\" : null\r\n  }, {\r\n    \"partnumber\" : \"J30J307852901\",\r\n    \"colourCode\" : \"J30J307852_901\",\r\n    \"label\" : \"BRIGHT WHITE / SAFETY YELLOW\",\r\n    \"mainColour\" : \"WHITE\",\r\n    \"pdp\" : \"slim-organic-cotton-t-shirt-j30j307852901\",\r\n    \"promoActivity\" : true,\r\n    \"productId\" : \"526112\",\r\n    \"translatedColour\" : \"WHITE\",\r\n    \"comingSoon\" : true,\r\n    \"markdownPercentage\" : null,\r\n    \"promotion\" : null,\r\n    \"isNew\" : false,\r\n    \"soldout\" : false,\r\n    \"discountMessage\" : null\r\n  }, {\r\n    \"partnumber\" : \"J30J307852902\",\r\n    \"colourCode\" : \"J30J307852_902\",\r\n    \"label\" : \"NIGHT SKY / ICELAND POPPY\",\r\n    \"mainColour\" : \"BLUE\",\r\n    \"pdp\" : \"slim-organic-cotton-t-shirt-j30j307852902\",\r\n    \"promoActivity\" : true,\r\n    \"productId\" : \"527134\",\r\n    \"translatedColour\" : \"BLUE\",\r\n    \"comingSoon\" : true,\r\n    \"markdownPercentage\" : null,\r\n    \"promotion\" : null,\r\n    \"isNew\" : false,\r\n    \"soldout\" : false,\r\n    \"discountMessage\" : null\r\n  } ],\r\n  \"stylePartNumber\" : \"J30J307852\",\r\n  \"colourCode\" : \"099\",\r\n  \"markdownPercentage\" : null,\r\n  \"promotion\" : null,\r\n  \"userDataField\" : [ {\r\n    \"key\" : \"description\",\r\n    \"value\" : \"• organic cotton<BR>• slim fit<BR>• crew neckline<BR>• short sleeves<BR>• soft washed finish<BR>• CALVIN KLEIN logo print on the chest <BR><BR>This T-shirt is crafted with 100% sustainable materials.<BR><BR>Our model is 1.86m and is wearing a size M.<BR><BR>100% cotton<BR>machine wash<BR>do not tumble dry<BR>fits true to size\"\r\n  }, {\r\n    \"key\" : \"product_attr_alt_image_count\",\r\n    \"value\" : \"9\"\r\n  }, {\r\n    \"key\" : \"onsale_uk\",\r\n    \"value\" : \"0\"\r\n  }, {\r\n    \"key\" : \"possible_variant_size_uk\",\r\n    \"value\" : \"v387770:12:XL|v387771:14:XXL|v387772:4:XS|v387773:6:S|v387774:8:M|v387775:10:L\"\r\n  }, {\r\n    \"key\" : \"search_categories\",\r\n    \"value\" : \"Calvin Klein\"\r\n  }, {\r\n    \"key\" : \"seo_url\",\r\n    \"value\" : \"44|slim-organic-cotton-t-shirt-j30j307852099\"\r\n  }, {\r\n    \"key\" : \"size_uk\",\r\n    \"value\" : \"4:XS\"\r\n  }, {\r\n    \"key\" : \"stylepartnumber\",\r\n    \"value\" : \"J30J307852\"\r\n  }, {\r\n    \"key\" : \"style\",\r\n    \"value\" : \"T-shirts\"\r\n  }, {\r\n    \"key\" : \"fitfortops\",\r\n    \"value\" : \"Slim\"\r\n  }, {\r\n    \"key\" : \"possible_variant_size_uk\",\r\n    \"value\" : \"v387770:12:XL|v387771:14:XXL|v387772:4:XS|v387773:6:S|v387774:8:M|v387775:10:L\"\r\n  }, {\r\n    \"key\" : \"skupartnumbers\",\r\n    \"value\" : \"387770,8719113820369|387771,8719113820376|387772,8719113820321|387773,8719113820338|387774,8719113820345|387775,8719113820352\"\r\n  }, {\r\n    \"key\" : \"cksizeguide\",\r\n    \"value\" : \"CKJEANS_menTops\"\r\n  } ],\r\n  \"productId\" : \"387769\",\r\n  \"benefits\" : [ ],\r\n  \"analyticsName\" : \"Slim Organic Cotton T-shirt\",\r\n  \"gender\" : \"men\",\r\n  \"relatedProducts\" : [ {\r\n    \"partnumber\" : null,\r\n    \"relatedPartnumber\" : null,\r\n    \"pdp\" : null,\r\n    \"brand\" : null,\r\n    \"brandUrl\" : null\r\n  }, {\r\n    \"partnumber\" : null,\r\n    \"relatedPartnumber\" : null,\r\n    \"pdp\" : null,\r\n    \"brand\" : null,\r\n    \"brandUrl\" : null\r\n  }, {\r\n    \"partnumber\" : null,\r\n    \"relatedPartnumber\" : null,\r\n    \"pdp\" : null,\r\n    \"brand\" : null,\r\n    \"brandUrl\" : null\r\n  } ],\r\n  \"translatedColour\" : null\r\n}",
+      "redirectURL": null,
+      "categoryId": "116121"
+    },
+    "resourceName": "product"
+  },
+  "inventoryavailabilityProds": {
+    "resourceId": "https://uk.dev.calvinklein.com:443/wcs/resources/store/20027/inventoryavailability/387770,387771,387772,387773,387774,387775,526113,526114,526115,526116,526117,526118,527135,527136,527137,527138,527139,527140",
+    "InventoryAvailability": [
+      {
+        "inventoryStatus": "Available",
+        "onlineStoreName": "CalvinKleinUK",
+        "x_partnumber": "8719113820369",
+        "unitOfMeasure": "C62",
+        "onlineStoreId": "20027",
+        "availableQuantity": "6.0",
+        "productId": "387770"
+      },
+      {
+        "inventoryStatus": "Available",
+        "onlineStoreName": "CalvinKleinUK",
+        "x_partnumber": "8719113820376",
+        "unitOfMeasure": "C62",
+        "onlineStoreId": "20027",
+        "availableQuantity": "2.0",
+        "productId": "387771",
+        "userDataField": [
+          {
+            "value": true,
+            "key": "lowstock"
+          }
+        ]
+      },
+      {
+        "inventoryStatus": "Available",
+        "onlineStoreName": "CalvinKleinUK",
+        "x_partnumber": "8719113820321",
+        "unitOfMeasure": "C62",
+        "onlineStoreId": "20027",
+        "availableQuantity": "20.0",
+        "productId": "387772"
+      },
+      {
+        "inventoryStatus": "Available",
+        "onlineStoreName": "CalvinKleinUK",
+        "x_partnumber": "8719113820338",
+        "unitOfMeasure": "C62",
+        "onlineStoreId": "20027",
+        "availableQuantity": "106.0",
+        "productId": "387773"
+      },
+      {
+        "inventoryStatus": "Available",
+        "onlineStoreName": "CalvinKleinUK",
+        "x_partnumber": "8719113820345",
+        "unitOfMeasure": "C62",
+        "onlineStoreId": "20027",
+        "availableQuantity": "29.0",
+        "productId": "387774"
+      },
+      {
+        "inventoryStatus": "Available",
+        "onlineStoreName": "CalvinKleinUK",
+        "x_partnumber": "8719113820352",
+        "unitOfMeasure": "C62",
+        "onlineStoreId": "20027",
+        "availableQuantity": "13.0",
+        "productId": "387775"
+      },
+      {
+        "inventoryStatus": "Available",
+        "onlineStoreName": "CalvinKleinUK",
+        "x_partnumber": "8719851504385",
+        "unitOfMeasure": "C62",
+        "onlineStoreId": "20027",
+        "availableQuantity": "3.0",
+        "productId": "526113",
+        "userDataField": [
+          {
+            "value": true,
+            "key": "lowstock"
+          }
+        ]
+      },
+      {
+        "inventoryStatus": "Available",
+        "onlineStoreName": "CalvinKleinUK",
+        "x_partnumber": "8719851504330",
+        "unitOfMeasure": "C62",
+        "onlineStoreId": "20027",
+        "availableQuantity": "1.0",
+        "productId": "526114",
+        "userDataField": [
+          {
+            "value": true,
+            "key": "lowstock"
+          }
+        ]
+      },
+      {
+        "inventoryStatus": "Available",
+        "onlineStoreName": "CalvinKleinUK",
+        "x_partnumber": "8719851504347",
+        "unitOfMeasure": "C62",
+        "onlineStoreId": "20027",
+        "availableQuantity": "10.0",
+        "productId": "526115"
+      },
+      {
+        "inventoryStatus": "Available",
+        "onlineStoreName": "CalvinKleinUK",
+        "x_partnumber": "8719851504354",
+        "unitOfMeasure": "C62",
+        "onlineStoreId": "20027",
+        "availableQuantity": "11.0",
+        "productId": "526116"
+      },
+      {
+        "inventoryStatus": "Available",
+        "onlineStoreName": "CalvinKleinUK",
+        "x_partnumber": "8719851504361",
+        "unitOfMeasure": "C62",
+        "onlineStoreId": "20027",
+        "availableQuantity": "7.0",
+        "productId": "526117"
+      },
+      {
+        "inventoryStatus": "Available",
+        "onlineStoreName": "CalvinKleinUK",
+        "x_partnumber": "8719851504378",
+        "unitOfMeasure": "C62",
+        "onlineStoreId": "20027",
+        "availableQuantity": "1.0",
+        "productId": "526118",
+        "userDataField": [
+          {
+            "value": true,
+            "key": "lowstock"
+          }
+        ]
+      },
+      {
+        "inventoryStatus": "Available",
+        "onlineStoreName": "CalvinKleinUK",
+        "x_partnumber": "8719851504392",
+        "unitOfMeasure": "C62",
+        "onlineStoreId": "20027",
+        "availableQuantity": "1.0",
+        "productId": "527135",
+        "userDataField": [
+          {
+            "value": true,
+            "key": "lowstock"
+          }
+        ]
+      },
+      {
+        "inventoryStatus": "Available",
+        "onlineStoreName": "CalvinKleinUK",
+        "x_partnumber": "8719851504705",
+        "unitOfMeasure": "C62",
+        "onlineStoreId": "20027",
+        "availableQuantity": "6.0",
+        "productId": "527136"
+      },
+      {
+        "inventoryStatus": "Available",
+        "onlineStoreName": "CalvinKleinUK",
+        "x_partnumber": "8719851504712",
+        "unitOfMeasure": "C62",
+        "onlineStoreId": "20027",
+        "availableQuantity": "8.0",
+        "productId": "527137"
+      },
+      {
+        "inventoryStatus": "Available",
+        "onlineStoreName": "CalvinKleinUK",
+        "x_partnumber": "8719851504729",
+        "unitOfMeasure": "C62",
+        "onlineStoreId": "20027",
+        "availableQuantity": "1.0",
+        "productId": "527138",
+        "userDataField": [
+          {
+            "value": true,
+            "key": "lowstock"
+          }
+        ]
+      },
+      {
+        "inventoryStatus": "Unavailable",
+        "onlineStoreName": "CalvinKleinUK",
+        "x_partnumber": "8719851504736",
+        "unitOfMeasure": "C62",
+        "onlineStoreId": "20027",
+        "availableQuantity": "0.0",
+        "productId": "527139",
+        "userDataField": [
+          {
+            "value": true,
+            "key": "lowstock"
+          }
+        ]
+      },
+      {
+        "inventoryStatus": "Unavailable",
+        "onlineStoreName": "CalvinKleinUK",
+        "x_partnumber": "8719851504743",
+        "unitOfMeasure": "C62",
+        "onlineStoreId": "20027",
+        "availableQuantity": "0.0",
+        "productId": "527140",
+        "userDataField": [
+          {
+            "value": true,
+            "key": "lowstock"
+          }
+        ]
+      }
+    ],
+    "resourceName": "inventoryavailability"
+  },
+  "update_order_item": {
+    "orderItem": [
+      {
+        "quantity": "5",
+        "productId": "387770",
+        "orderItemId": "1655004"
+      }
+    ],
+    "x_calculationUsage": "-1,-2,-7"
+  },
+  "delete_order_item": {
+    "orderItemId": "1655003"
+  },
+  "cart": {
+    "orderItem": [
+      {
+        "quantity": "6",
+        "productId": "387775"
+      }
+    ]
+  },
+  "usable_payment_info": {
+    "resourceId": "https://uk.dev.tommy.com:443/wcs/resources/store/30027/cart/@self/usable_payment_info",
+    "usablePaymentInformation": [
+      {
+        "paymentTermConditionId": "",
+        "description": "Visa Credit Card",
+        "xumet_attrPageName": "StandardVisa",
+        "xumet_isCreditCard": "true",
+        "language": "44",
+        "paymentMethodName": "VISA",
+        "xumet_policyId": "3074457345616677480"
+      },
+      {
+        "paymentTermConditionId": "",
+        "description": "Master Credit Card",
+        "xumet_attrPageName": "StandardMasterCard",
+        "xumet_isCreditCard": "true",
+        "language": "44",
+        "paymentMethodName": "Master Card",
+        "xumet_policyId": "3074457345616677481"
+      },
+      {
+        "paymentTermConditionId": "",
+        "description": "American Express Credit Card",
+        "xumet_attrPageName": "StandardAmex",
+        "xumet_isCreditCard": "true",
+        "language": "44",
+        "paymentMethodName": "AMEX",
+        "xumet_policyId": "3074457345616677482"
+      },
+      {
+        "paymentTermConditionId": "",
+        "description": "Maestro International Debit Card",
+        "xumet_attrPageName": "StandardMaestro",
+        "xumet_isCreditCard": "true",
+        "language": "44",
+        "paymentMethodName": "Maestro",
+        "xumet_policyId": "3074457345616677483"
+      },
+      {
+        "paymentTermConditionId": "",
+        "description": "PayPal",
+        "xumet_attrPageName": "StandardPayPal",
+        "language": "44",
+        "paymentMethodName": "PayPal",
+        "xumet_policyId": "3074457345616677486"
+      }
+    ],
+    "resourceName": "cart",
+    "orderId": "251003"
+  },
+  "assigned_promotion_code": {
+    "orderItemId": "1655003"
+  }
+}

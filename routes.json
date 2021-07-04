@@ -1,0 +1,6 @@
+{
+  "/assigned_promotion_code/TH08310": "/assigned_promotion_code",
+  "/inventoryavailability/362439,387770,525739,526179,527650": "/inventoryavailabilityBase",
+  "/inventoryavailability/387770,387771,387772,387773,387774,387775,526113,526114,526115,526116,526117,526118,527135,527136,527137,527138,527139,527140": "/inventoryavailabilityProds",
+  "/wcs/resources/search/20027/product/44/10204/byProductId/387769": "/get_parent_product"
+}
